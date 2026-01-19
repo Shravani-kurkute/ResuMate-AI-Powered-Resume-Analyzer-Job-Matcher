@@ -175,11 +175,3 @@ Each company receives a **Match Score (0–100%)**, and the top 3 companies are 
 - Add dark mode UI  
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is **for educational and demonstration purposes only** and should not be used for real recruitment decisions.
-
----
-
-## ⭐ If you found this project useful, please ⭐ the repository!
