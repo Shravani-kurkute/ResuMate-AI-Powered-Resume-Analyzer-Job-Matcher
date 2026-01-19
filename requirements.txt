@@ -1,0 +1,13 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+flask
+streamlit
+scikit-learn
+streamlit-option-menu
+xgboost
+lightgbm 
+catboost
+imbalanced-learn
